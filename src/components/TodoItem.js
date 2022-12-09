@@ -1,9 +1,4 @@
-/* eslint-disable react/no-unused-state */
-/* eslint-disable react/state-in-constructor */
-/* eslint-disable react/button-has-type */
-/* eslint-disable react/prop-types */
-/* eslint-disable react/destructuring-assignment */
-/* eslint-disable react/prefer-stateless-function */
+
 import React from 'react';
 import styles from './TodoItem.module.css';
 

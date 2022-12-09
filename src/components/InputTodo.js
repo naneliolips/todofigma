@@ -1,9 +1,4 @@
-/* eslint-disable react/prop-types */
-/* eslint-disable no-unused-vars */
-/* eslint-disable react/destructuring-assignment */
-/* eslint-disable react/button-has-type */
-/* eslint-disable react/no-unused-state */
-/* eslint-disable react/state-in-constructor */
+
 import React, { Component } from 'react';
 
 class InputTodo extends Component {
